@@ -1,0 +1,32 @@
+.about {
+  display: flex;
+  padding: 8rem 12rem;
+}
+
+.about > section:first-child {
+  margin-right: 7.2rem;
+}
+
+@media (max-width: 81.25em) {
+  .about {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about > section:first-child {
+    margin-right: 0;
+    margin-bottom: 9rem;
+  }
+}
+
+@media (max-width: 62.5em) {
+  .about {
+    padding: 8rem 8rem;
+  }
+}
+
+@media (max-width: 48em) {
+  .about {
+    padding: 6rem 1.8rem;
+  }
+}

@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Raleway:wght@400;500;600&display=swap");
+
+:root {
+  --color-primary-1: #728073;
+  --color-primary-2: #f4f1ec;
+  --color-secondary-1: #292929;
+  --color-secondary-2: #707070;
+  --color-secondary-3: #ffffff;
+  --typeface-1: "Cormorant Garamond";
+  --typeface-2: "Raleway";
+  --navbar-height: 11rem;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: var(--color-primary-2);
+  font-family: var(--typeface-2);
+}
+
+body.blur {
+  overflow: hidden;
+}
+
+body.blur #root > *:not(nav) {
+  filter: blur(2px);
+  pointer-events: none;
+  user-select: none;
+  transition: 0.2s ease-in-out;
+}
+
+a {
+  text-decoration: none;
+}

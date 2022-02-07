@@ -1,0 +1,19 @@
+.social {
+  width: 17rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-link {
+  color: var(--color-secondary-2);
+  transition: color 0.2s ease-in-out;
+}
+
+.social-link:hover {
+  color: var(--color-primary-1);
+}
+
+.social-link svg {
+  height: 3.2rem;
+  width: 3.2rem;
+}

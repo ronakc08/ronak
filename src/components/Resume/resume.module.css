@@ -1,0 +1,142 @@
+.resume {
+  padding: 0 3rem;
+  width: calc(100% - 32rem);
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.label {
+  font-size: 1.6rem;
+  min-width: 13rem;
+  font-weight: 500;
+  color: var(--color-primary-1);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-right: 8rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  max-width: 78rem;
+  width: 100%;
+}
+
+.content h3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+}
+
+.content span {
+  font-size: 1.8rem;
+}
+
+.content ul {
+  margin-top: 3rem;
+  list-style-position: inside;
+}
+
+.content ul li {
+  font-size: 1.8rem;
+  list-style: none;
+  position: relative;
+  margin-left: 13px;
+}
+
+.content ul li:before {
+  content: "\2022";
+  font-size: 1rem;
+  vertical-align: middle;
+  position: absolute;
+  left: -13px;
+  top: 6px;
+}
+
+.content ul li:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+.content:not(:last-child) {
+  margin-bottom: 6rem;
+}
+
+.tools {
+  width: 78rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  gap: 6rem;
+}
+
+.tools svg {
+  font-size: 4.8rem;
+  margin-right: 8px;
+  transition: color 0.2s ease-in-out;
+}
+
+.tools svg:hover {
+  color: var(--color-primary-1);
+}
+
+.tools div {
+  display: flex;
+  align-items: center;
+  font-size: 1.8rem;
+}
+
+.line {
+  background-color: var(--color-secondary-2);
+  height: 1px;
+  width: 100%;
+  margin: 8rem 0;
+}
+
+@media (max-width: 81.25em) {
+  .resume {
+    padding: 0;
+    width: 100%;
+  }
+}
+
+@media (max-width: 57.1875em) {
+  .container {
+    flex-direction: column;
+  }
+
+  .label {
+    margin-right: 0;
+    margin-bottom: 2.4rem;
+  }
+
+  .line {
+    margin: 5rem 0;
+  }
+
+  .tools {
+    gap: 3rem;
+    max-width: 78rem;
+    width: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  }
+}
+
+@media (max-width: 34.125em) {
+  .tools {
+    column-gap: 1rem;
+  }
+}
+
+@media (max-width: 21.75em) {
+  .tools {
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  }
+
+  .tools svg {
+    font-size: 2rem;
+  }
+}

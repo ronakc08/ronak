@@ -1,0 +1,11 @@
+.footer {
+  height: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--color-secondary-3);
+  font-weight: 600;
+  font-size: 1.8rem;
+  text-transform: capitalize;
+  background-color: var(--color-secondary-1);
+}
