@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gavin Zheng",
-    description: "Gavin Zheng's personal website.",
-    titleTemplate: `%s | Gavin Zheng`,
+    title: "Ronak Chougule",
+    description: "Ronak Chougule's personal website.",
+    titleTemplate: `%s | Ronak Chougule`,
     url: "https://www.gzheng.dev/",
     image: `/mainImg.png`,
   },
@@ -21,13 +21,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `GavinZheng`,
-        short_name: `GavinZheng`,
+        name: `RonakChougule`,
+        short_name: `RonakChougule`,
         start_url: `/`,
         background_color: `#f4f1ec`,
         theme_color: `#728073`,
         display: `minimal-ui`,
-        icon: "src/images/logo.png",
       },
     },
     `gatsby-plugin-offline`,
