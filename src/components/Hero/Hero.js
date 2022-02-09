@@ -9,8 +9,7 @@ const Hero = () => {
       <StaticImage
         src="../../images/profile.jpg"
         alt="Gavin's headshot"
-        height={150}
-        width={150}
+        height={180}
         quality={95}
         className={styles.profileImg}
       />
