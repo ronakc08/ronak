@@ -3,7 +3,7 @@ module.exports = {
     title: "Ronak Chougule",
     description: "Ronak Chougule's personal website.",
     titleTemplate: `%s | Ronak Chougule`,
-    url: "https://www.gzheng.dev/",
+    url: "https://www.ronakc.info/",
     image: `/mainImg.png`,
   },
   plugins: [
