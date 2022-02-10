@@ -13,10 +13,9 @@ const About = () => {
         src="../../images/profile.jpg"
         alt="Gavin's headshot"
         height={180}
-        width={180}
         quality={95}
         className={styles.profileImg}
-        imgStyle={{ borderRadius: "50%" }}
+        style={{ borderRadius: "50%" }}
       />
       <div className={styles.aboutTitle}>
         <h1>Ronak Chougule</h1>
