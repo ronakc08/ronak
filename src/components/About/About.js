@@ -20,7 +20,6 @@ const About = () => {
       <div className={styles.aboutTitle}>
         <h1>Ronak Chougule</h1>
         <h2>ronakc@bu.edu</h2>
-        <span>mechanical product design and manufacturing engineer</span>
       </div>
       <div className={styles.aboutDescription}>
         <ImQuotesLeft className={styles.quotes} />
