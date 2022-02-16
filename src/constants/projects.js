@@ -22,6 +22,14 @@ const data = [
     imgName: "wheelchair",
   },
   {
+    title: "MultiPurpose Resistance Device",
+    tools: [],
+    description:
+      "A gym equipment used for upper body and lower body workouts. The machine has dual purpose and is can be used for workouts at home, resistance device can be manually shifted according to the required use, ",
+    github: "/MRD.pdf",
+    imgName: "MRD",
+  },
+  {
     title: "Data Acquisition of Foot Pressure",
     tools: [],
     description:
