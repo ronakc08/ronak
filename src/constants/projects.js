@@ -1,5 +1,12 @@
 const data = [
   {
+    title: "Mass Production of Adjustable Whisk",
+    tools: [],
+    description: "",
+    github: "/Report.pdf",
+    imgName: "whisk",
+  },
+  {
     title: "MIT Hyperloop III",
     tools: [],
     description: "Developed a prototype tunneling machine, Re-designed new safety system for cutter head and existing guidance mechanism, Installed information acquisition system for monitoring real-time temperature, position and velocity of steering head",

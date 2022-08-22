@@ -1,8 +1,19 @@
 const data = [
   {
+    title: "Mechanical Engineer Co-op ",
+    workplace: "Desktop Metal",
+    timespan: "Jun. 2022 - Present",
+    description: [
+      "Implemented concepts and followed through initial prototype and testing of vacuum chamber, print head gantry and oxygen sensor for future production",
+      "Co-led multiple drawing reviews using SOLIDWORKS and Salesforce propel data management",
+      "Designed and constructed test rig for production setup to conduct static electricity generation experiment",
+      "Built parts to specification for prototype using machine tools and 3D printers"
+    ],
+  },
+  {
     title: "Graduate Student Technician",
     workplace: "Boston University",
-    timespan: "Jan. 2022 - Present",
+    timespan: "Jan. 2022 - May 2022",
     description: [
       "Teaching Assistant for Automated Design and Manufacturing Labs",
       "Hands on experience with Haas Mills, Gibbs CAM and Universal Robots",
@@ -10,7 +21,7 @@ const data = [
     ],
   },
   {
-    title: "Manufacturing Engineer Intern",
+    title: "Mechanical Engineer Intern",
     workplace: "Chougule Steels",
     timespan: "May 2021 – Sept. 2021",
     description: [
