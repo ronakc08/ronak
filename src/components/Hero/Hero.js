@@ -15,7 +15,7 @@ const Hero = () => {
       />
       <div className={styles.heroInfo}>
         <h3>Hi, I'm Ronak.</h3>
-        <h1>mechanical product design and manufacturing engineer</h1>
+        <h1>mechanical engineer</h1>
         <div className={styles.heroButtons}>
           <LinkButton text="view resume" url={"/resume.pdf"} />
 
