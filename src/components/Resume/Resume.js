@@ -8,9 +8,9 @@ const Resume = () => {
       <div className={styles.container}>
         <div className={styles.label}>Education</div>
         <div className={styles.content}>
-          <h3>Master of Science in Product design and Manufacturing </h3>
+          <h3>Master of Science in Product design and Manufacturing  GPA- 3.76 </h3>
           <span>
-            Boston University, Boston, MA &#183; Aug. 2021 – Dec. 2022
+            Boston University, Boston, MA &#183; Aug. 2021 – May. 2023 
           </span>
         </div>
       </div>

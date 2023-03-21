@@ -1,17 +1,25 @@
 const data = [
   {
+    title: "Shark Air purifier",
+    tools: [],
+    description: "",
+    github: "https://www.bestbuy.com/site/shark-air-purifier-max-with-true-nanoseal-hepa-cleansense-iq-odor-lock-cleans-up-to-1200-sq-ft-charcoal-grey/6505877.p?skuId=6505877",
+    imgName: "shark",
+  },
+  {
+    title: "Data Acquisition of Foot Pressure",
+    tools: [],
+    description:
+      "Foot sole with force sensitive resistance's for measuring pressure intensity",
+    github: "/foot.pdf",
+    imgName: "foot",
+  },
+  {
     title: "Mass Production of Adjustable Whisk",
     tools: [],
     description: "",
     github: "/Report.pdf",
     imgName: "whisk",
-  },
-  {
-    title: "MIT Hyperloop III",
-    tools: [],
-    description: "Developed a prototype tunneling machine, Re-designed new safety system for cutter head and existing guidance mechanism, Installed information acquisition system for monitoring real-time temperature, position and velocity of steering head",
-    github: "https://www.hyperloop.mit.edu/",
-    imgName: "power",
   },
   {
     title: "Multifunctional Vehicle",
@@ -37,13 +45,14 @@ const data = [
     imgName: "MRD",
   },
   {
-    title: "Data Acquisition of Foot Pressure",
+    title: "O2 Sensor Stand for Metal Powder 3D Printer",
     tools: [],
     description:
-      "Foot sole with force sensitive resistance's for measuring pressure intensity",
-    github: "/foot.pdf",
-    imgName: "foot",
+      "Built a stand for Ntron O2 sensor inside a vaccum chamber for measuring the oxygen percentage, did FEA analysis and built in house on CNC machine ",
+    github: "/stand.pdf",
+    imgName: "stand",
   },
+  
 ];
 
 export default data;

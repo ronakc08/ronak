@@ -1,8 +1,20 @@
 const data = [
   {
+    title: "New Product Development Co=op ",
+    workplace: "SharkNinja",
+    timespan: "Feb. 2023 - present",
+    description: [
+      "Evaluated designs for two new air purifiers using DFA, DFM metrics and made detailed modifications in prototype to support engineering builds in China ",
+      "Led product development of Shark’s various home environment devices by generating test data for R&D team to validate design changes",
+      "Worked closely with industrial design and manufacturing groupsto refine and execute vision of the product",
+      "Assisted with product design development plans and documented action items to inform factories in Asia for high volume manufacturing",
+      "Engaged in discussion between departments on marketing, cost control and functionality of products",
+    ],
+  },
+  {
     title: "Mechanical Engineer Co-op ",
     workplace: "Desktop Metal",
-    timespan: "Jun. 2022 - Present",
+    timespan: "Jun. 2022 - Dec 2022",
     description: [
       "Implemented concepts and followed through initial prototype and testing of vacuum chamber, print head gantry and oxygen sensor for future production",
       "Co-led multiple drawing reviews using SOLIDWORKS and Salesforce propel data management",
