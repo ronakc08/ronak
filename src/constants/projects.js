@@ -2,7 +2,7 @@ const data = [
   {
     title: "Shark Air purifier",
     tools: [],
-    description: "",
+    description: "Due to confidentiality I cannot add pcitures or test results about this project but if you want to know more about the project please contact me. Here is the link to the best buy product",
     github: "https://www.bestbuy.com/site/shark-air-purifier-max-with-true-nanoseal-hepa-cleansense-iq-odor-lock-cleans-up-to-1200-sq-ft-charcoal-grey/6505877.p?skuId=6505877",
     imgName: "shark",
   },
@@ -10,14 +10,14 @@ const data = [
     title: "Data Acquisition of Foot Pressure",
     tools: [],
     description:
-      "Foot sole with force sensitive resistance's for measuring pressure intensity",
+      "Propose of this device which will reduce the effort of the orthopedic surgeon by measuring foot palm pressure and analyzing them with standard results. ",
     github: "/foot.pdf",
     imgName: "foot",
   },
   {
     title: "Mass Production of Adjustable Whisk",
     tools: [],
-    description: "",
+    description: "The scope of this project was to make a product which can be sold for less than 10$ and also can generate profit when mass manufactured, me and my team designed and built an adjustable whisk which can generate profit on mass manufacturing",
     github: "/Report.pdf",
     imgName: "whisk",
   },

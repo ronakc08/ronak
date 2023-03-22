@@ -1,6 +1,6 @@
 const data = [
   {
-    title: "New Product Development Co=op ",
+    title: "New Product Development Co-op ",
     workplace: "SharkNinja",
     timespan: "Feb. 2023 - present",
     description: [
