@@ -49,7 +49,7 @@ const data = [
     tools: [],
     description:
       "Built a stand for Ntron O2 sensor inside a vaccum chamber for measuring the oxygen percentage, did FEA analysis and built in house on CNC machine ",
-    github: "/stand.pdf",
+    github: "/O2STAND.pdf",
     imgName: "stand",
   },
   
