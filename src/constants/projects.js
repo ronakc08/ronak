@@ -18,7 +18,6 @@ const data = [
     tools: [],
     description: "Worked as a mechanical engineer for MIT's hyperloop team which competed in not a boring competition 2021, our team was selected to compete with 12 other teams from all around the world. One of my major contribution towards the team was to help design and assemble the Drill assembly for cutter head",
     github: "/Hyperloop.pdf",
-    github: "/HP-2",
     imgName: "HP-1",
   },
   {
