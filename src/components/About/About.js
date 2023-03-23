@@ -24,8 +24,10 @@ const About = () => {
       <div className={styles.aboutDescription}>
         <ImQuotesLeft className={styles.quotes} />
         <p>
-          Hi I'm Ronak, a mechanical engineer. I am currently a graduate student
-          at Boston University.
+         Hi I'm Ronak, a Product Design and Manufacturing Engineer with a background in Mechanical Engineering and 2+ years’ 
+         experience in quality improvement, CAD, injection molding, product design, 3D printing and manufacturing. 
+         Exhibited ability to design for manufacturability and improvement of product performance. Strong understanding of metal and plastic industry such as sand casting, sheet metal fabrication, blow molding, plastic 
+         extrusion, precision machining and assembly.
         </p>
       </div>
       <LinkButton
