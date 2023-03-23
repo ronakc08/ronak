@@ -14,6 +14,14 @@ const data = [
     imgName: "foot",
   },
   {
+    title: "MIT Hyperloop III",
+    tools: [],
+    description: "Worked as a mechanical engineer for MIT's hyperloop team which competed in not a boring competition 2021, our team was selected to compete with 12 other teams from all around the world. One of my major contribution towards the team was to help design and assemble the Drill assembly for cutter head",
+    github: "/Hyperloop.pdf",
+    github: "/HP-2",
+    imgName: "HP-1",
+  },
+  {
     title: "Mass Production of Adjustable Whisk",
     tools: [],
     description: "The scope of this project was to make a product which can be sold for less than 10$ and also can generate profit when mass manufactured, me and my team designed and built an adjustable whisk which can generate profit on mass manufacturing",
