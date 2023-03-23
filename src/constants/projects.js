@@ -3,7 +3,6 @@ const data = [
     title: "Shark Air Purifier",
     tools: [],
     description: "Worked on desiging the new Air purifier for Shark's home enviroment team. As the product will launch later during the year 2023 images cant be shared online, to know more please contact me",
-    github: "email- ronakc@bu.edu",
     imgName: "Confidential",
   },
   {
