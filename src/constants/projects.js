@@ -1,10 +1,10 @@
 const data = [
   {
-    title: "Shark Air purifier",
+    title: "Shark Air Purifier",
     tools: [],
-    description: "Due to confidentiality I cannot add pcitures or test results but if you want to know my contibution towards it please contact me. Here is the link to the best buy product",
-    github: "https://www.bestbuy.com/site/shark-air-purifier-max-with-true-nanoseal-hepa-cleansense-iq-odor-lock-cleans-up-to-1200-sq-ft-charcoal-grey/6505877.p?skuId=6505877",
-    imgName: "shark",
+    description: "Worked on desiging the new Air purifier for Shark's home enviroment team. As the product will launch later during the year 2023 images cant be shared online, to know more please contact me",
+    github: "email- ronakc@bu.edu",
+    imgName: "confidential",
   },
   {
     title: "Data Acquisition of Foot Pressure",
