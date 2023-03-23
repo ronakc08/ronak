@@ -2,7 +2,7 @@ const data = [
   {
     title: "Shark Air purifier",
     tools: [],
-    description: "Due to confidentiality I cannot add pcitures or test results about this project but if you want to know more about the project please contact me. Here is the link to the best buy product",
+    description: "Due to confidentiality I cannot add pcitures or test results but if you want to know my contibution towards it please contact me. Here is the link to the best buy product",
     github: "https://www.bestbuy.com/site/shark-air-purifier-max-with-true-nanoseal-hepa-cleansense-iq-odor-lock-cleans-up-to-1200-sq-ft-charcoal-grey/6505877.p?skuId=6505877",
     imgName: "shark",
   },
@@ -10,7 +10,7 @@ const data = [
     title: "Data Acquisition of Foot Pressure",
     tools: [],
     description:
-      "Propose of this device which will reduce the effort of the orthopedic surgeon by measuring foot palm pressure and analyzing them with standard results. ",
+      "This device was designed to reduce the effort of the orthopedic surgeon by measuring foot palm pressure and analyzing them with standard results",
     github: "/foot.pdf",
     imgName: "foot",
   },
