@@ -28,6 +28,14 @@ const data = [
     imgName: "car",
   },
   {
+    title: "O2 Sensor Stand for Metal Powder 3D Printer",
+    tools: [],
+    description:
+      "Built a stand for Ntron O2 sensor inside a vaccum chamber for measuring the oxygen percentage, did FEA analysis and built in house on CNC machine ",
+    github: "/O2STAND.pdf",
+    imgName: "stand",
+  },
+  {
     title: "Design and Manufacturing of Wheel chair cum stretcher",
     tools: ["Solidworks", "ANSYS"],
     description:
@@ -43,14 +51,7 @@ const data = [
     github: "/MRD.pdf",
     imgName: "MRD",
   },
-  {
-    title: "O2 Sensor Stand for Metal Powder 3D Printer",
-    tools: [],
-    description:
-      "Built a stand for Ntron O2 sensor inside a vaccum chamber for measuring the oxygen percentage, did FEA analysis and built in house on CNC machine ",
-    github: "/O2STAND.pdf",
-    imgName: "stand",
-  },
+  
   
 ];
 
