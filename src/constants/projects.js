@@ -21,6 +21,13 @@ const data = [
     imgName: "whisk",
   },
   {
+    title: "Base Annealing trey- A contract foundry project",
+    tools: [],
+    description: "Modified trey design for minimizinf failures, this trey was used in high temperature for heat treatment",
+    github: "/CSPL.pdf",
+    imgName: "CSPL-1",
+  },
+  {
     title: "Multifunctional Vehicle",
     tools: [],
     description: "Designed and manufactured a vehicle from raw materials, which is affordable and easy to use which reduces the efforts of farmers and increases the accuracy in seed sowing, irrigation and harvesting",
