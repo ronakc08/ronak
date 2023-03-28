@@ -35,9 +35,9 @@ const data = [
     imgName: "CSPL-1",
   },
   {
-    title: "Multifunctional Vehicle",
+    title: "Multifunctional agricultre vehicle designed to reduce efforts of farmers in India",
     tools: [],
-    description: "Designed and manufactured a vehicle from raw materials, which is affordable and easy to use which reduces the efforts of farmers and increases the accuracy in seed sowing, irrigation and harvesting",
+    description: "In India farming is considered one of the major occupations, but around 54% of farmers do not have access to modern technology such as tractors so we decided to make a small machine which can help plough the land with ease",
     github: "/agriculture.pdf",
     imgName: "car",
   },
